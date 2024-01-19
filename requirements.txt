@@ -2,3 +2,4 @@ django
 #scikit-learn
 #seaborn
 django-environ
+psycopg2-binary
