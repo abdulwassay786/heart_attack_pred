@@ -1,5 +1,5 @@
 django
-#scikit-learn
+scikit-learn
 #seaborn
 django-environ
 psycopg2-binary
