@@ -3,3 +3,4 @@ django
 #seaborn
 django-environ
 psycopg2-binary
+numpy
