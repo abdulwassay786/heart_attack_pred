@@ -1,0 +1,14 @@
+{
+    "builds": [
+      {
+        "src": "heart_attack_pred/wsgi.py",
+        "use": "@vercel/python"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "heart_attack_pred/wsgi.py"
+      }
+    ]
+}
