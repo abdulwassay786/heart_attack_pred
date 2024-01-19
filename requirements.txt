@@ -1,4 +1,4 @@
 django
-scikit-learn
-seaborn
+#scikit-learn
+#seaborn
 django-environ
